@@ -1,0 +1,4 @@
+﻿  OpenCV入门07.cpp
+c:\users\administrator\desktop\opencv实践\opencv入门07\opencv入门07\opencv入门07.cpp(42): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\administrator\desktop\opencv实践\opencv入门07\opencv入门07\opencv入门07.cpp(42): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  OpenCV入门07.vcxproj -> C:\Users\Administrator\Desktop\OpenCV实践\OpenCV入门07\Debug\OpenCV入门07.exe

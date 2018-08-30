@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCV入门24", "OpenCV入门24\OpenCV入门24.vcxproj", "{C5B3272B-C570-48FE-A705-56A8F56E2AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B3272B-C570-48FE-A705-56A8F56E2AD6}.Debug|x64.ActiveCfg = Debug|x64
+		{C5B3272B-C570-48FE-A705-56A8F56E2AD6}.Debug|x64.Build.0 = Debug|x64
+		{C5B3272B-C570-48FE-A705-56A8F56E2AD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5B3272B-C570-48FE-A705-56A8F56E2AD6}.Debug|x86.Build.0 = Debug|Win32
+		{C5B3272B-C570-48FE-A705-56A8F56E2AD6}.Release|x64.ActiveCfg = Release|x64
+		{C5B3272B-C570-48FE-A705-56A8F56E2AD6}.Release|x64.Build.0 = Release|x64
+		{C5B3272B-C570-48FE-A705-56A8F56E2AD6}.Release|x86.ActiveCfg = Release|Win32
+		{C5B3272B-C570-48FE-A705-56A8F56E2AD6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43F4F10C-C746-429A-AE14-E67F41FE4897}
+	EndGlobalSection
+EndGlobal

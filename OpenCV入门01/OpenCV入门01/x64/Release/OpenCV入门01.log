@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  OpenCV入门01.cpp
+OpenCV入门01.obj : error LNK2001: 无法解析的外部符号 "int __cdecl cv::_interlockedExchangeAdd(int *,int)" (?_interlockedExchangeAdd@cv@@YAHPEAHH@Z)
+OpenCV入门01.obj : error LNK2001: 无法解析的外部符号 "class cv::Mat __cdecl cv::imread(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?imread@cv@@YA?AVMat@1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+OpenCV入门01.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@@Z)
+C:\Users\Administrator\Desktop\OpenCV实践\OpenCV入门01\x64\Release\OpenCV入门01.exe : fatal error LNK1120: 3 个无法解析的外部命令
